@@ -44,3 +44,4 @@ const movieId = process.argv[2];
 // Call the function to get and print characters
 getCharacters(movieId);
 
+
